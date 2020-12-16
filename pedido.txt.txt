@@ -1,0 +1,7 @@
+12/12/2020 14:10;true;Marcos Paulo;12345678910;Avenida das Americas;marcos.paulo@marcos.paulo.com
+I;Azzam;500000.0;true;162.0;SUPREMEE
+J;Garota de Aluguel;750;false;Com colete salva vidas
+L;Viper;15000;true;km ultrapassado
+I;Sailing Yacht A;300000.0;true;142.0;SUPREMEE
+J;Menino do Rio Aluguel;590;false;sem colete salva vidas
+L;Renegado;12000;true;km ok
